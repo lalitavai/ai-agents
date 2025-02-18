@@ -6,7 +6,7 @@ This project leverages **Flowise AI Agents** to create intelligent chatbots for 
 2. **Sahaja Yoga Chatbot** – A chatbot that provides information about Sahaja Yoga, utilizing data sourced from [Shrimataji.org](https://www.shrimataji.org).
 
 
-![Alt text](knc-profile.png)
+![Alt text](knc-flowise.png)
 ![Alt text](ShriMatajiOrg-chat.png)
    
 
