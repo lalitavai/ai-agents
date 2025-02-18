@@ -2,11 +2,12 @@
 
 ## Overview
 This project leverages **Flowise AI Agents** to create intelligent chatbots for two distinct purposes:
+
 1. **KNC Product Catalogue Chatbot** – A chatbot designed to assist users in exploring and understanding the KNC product catalog efficiently.
-2. **Sahaja Yoga Chatbot** – A chatbot that provides information about Sahaja Yoga, utilizing data sourced from [Shrimataji.org](https://www.shrimataji.org).
+   ![Alt text](knc-flowise.png)
+   
+3. **Sahaja Yoga Chatbot** – A chatbot that provides information about Sahaja Yoga, utilizing data sourced from [Shrimataji.org](https://www.shrimataji.org).
 
-
-![Alt text](knc-flowise.png)
 ![Alt text](ShriMatajiOrg-chat.png)
    
 
