@@ -97,14 +97,6 @@ To deploy your Flowise-based AI agent:
 - **Cloud Hosting**: Deploy on AWS, Azure, or Google Cloud.
 - **Integration**: Connect with applications using REST or WebSockets.
 
-## Contribution
-Feel free to contribute by submitting issues and pull requests.
-
-## License
-This project is licensed under the MIT License.
-
----
-For more details, visit the [Flowise Documentation](https://github.com/FlowiseAI/Flowise).
 
 
 
