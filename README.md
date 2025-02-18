@@ -26,9 +26,8 @@ This project leverages **Flowise AI Agents** to create intelligent chatbots for 
 - **Web UI** – Embedded chatbot UI for interaction.
 
 ## Flowise Json files which represents workflow for  AI master / workers
--KNC Chat Agents.json
--ShriMataji Org Chat Agents.json
-
+- **KNC Chat Agents.json** 
+- **ShriMataji Org Chat Agents.json**
 
 ## Usage
 - **KNC Chatbot:** Helps users find product details, availability, and recommendations.
